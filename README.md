@@ -3,7 +3,7 @@
 A tiny desk clock to remind me to stay mobile in my office work.
 During work hours, on the hour, the motor will vibrate and the animation will change from a work-computer animation to an active-sport animation.
 
-
+![Demo Video](https://github.com/user-attachments/assets/7b30df00-d2d1-447e-9084-d69d057bec88)
 
 In the morning the clock will show a sunshine animation, at lunch time, a food animation, at 16:00 a coffee cup, and after work hours, a little house.
 
