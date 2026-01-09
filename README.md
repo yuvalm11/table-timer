@@ -1,6 +1,6 @@
 # Table Timer
 
-A tiny desk clock to remind me to stay mobile in my office work.
+A tiny desk clock to remind me to stay mobile in my office work. <br>
 During work hours, on the hour, the motor will vibrate and the animation will change from a work-computer animation to an active-sport animation.
 
 ![Demo Video](https://github.com/user-attachments/assets/7b30df00-d2d1-447e-9084-d69d057bec88)
